@@ -1,0 +1,12 @@
+# Table of contents
+
+* [Functionnal documentation](README.md)
+  * [How to write functional documentation](functionnal-documentation/how-to-write-functional-documentation/README.md)
+    * [Templates](functionnal-documentation/how-to-write-functional-documentation/templates/README.md)
+      * [Page Template](functionnal-documentation/how-to-write-functional-documentation/templates/page-template.md)
+      * [Business rules template](functionnal-documentation/how-to-write-functional-documentation/templates/business-rules-template.md)
+  * [UX/UI](functionnal-documentation/ux-ui/README.md)
+    * [Back office](functionnal-documentation/ux-ui/back-office.md)
+    * [Front office](functionnal-documentation/ux-ui/front-office.md)
+    * [Common components](functionnal-documentation/ux-ui/common-components.md)
+  * [Business rules](functionnal-documentation/business-rules.md)
