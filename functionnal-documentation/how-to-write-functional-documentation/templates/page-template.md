@@ -60,7 +60,7 @@ This sub-section MUST include a diagram of this worflow (using : [https://app.di
 ### Behavior description
 
 * &#x20;This sub-section MUST contains the description of the behavoir / call to action.
-* This sub-section COULD contains a link to the relevant [business rule](../../business-rules.md)
+* This sub-section COULD contains a link to the relevant [business rule](broken-reference)
 
 This section COULD contains label (ex: multishop case ...) &#x20;
 
