@@ -9,4 +9,5 @@
     * [Back office](functionnal-documentation/ux-ui/back-office.md)
     * [Front office](functionnal-documentation/ux-ui/front-office.md)
     * [Common components](functionnal-documentation/ux-ui/common-components.md)
-  * [Business rules](functionnal-documentation/business-rules.md)
+  * [Business rules](readme/business-rules/README.md)
+    * [Stocks](readme/business-rules/stocks.md)

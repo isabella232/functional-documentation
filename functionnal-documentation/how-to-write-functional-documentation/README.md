@@ -29,7 +29,7 @@ This documentation is part of the PrestaShop project documentation package which
   * Front office
   * Common components
   * Installer
-* [Business rules](../business-rules.md)
+* [Business rules](../../readme/business-rules/)
   * Catalog referential
     * Sub sections ?  (Categories, attributes, images, files ...) ? ( TBD )&#x20;
   * Pricing, Taxes & Cart rules
@@ -45,7 +45,7 @@ This documentation is part of the PrestaShop project documentation package which
 ## Templates
 
 * [Page templates](templates/page-template.md) (for UX/UI)&#x20;
-* [Business rules template](../business-rules.md)
+* [Business rules template](broken-reference)
 
 
 
