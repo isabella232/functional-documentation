@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Functionnal documentation](README.md)
+* [Functional documentation](README.md)
   * [How to write functional documentation](functionnal-documentation/how-to-write-functional-documentation/README.md)
     * [Templates](functionnal-documentation/how-to-write-functional-documentation/templates/README.md)
       * [Page Template](functionnal-documentation/how-to-write-functional-documentation/templates/page-template.md)
