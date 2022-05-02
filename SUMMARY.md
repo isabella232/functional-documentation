@@ -18,6 +18,7 @@
             * [Attributes](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/attributes/README.md)
               * [Attributes List page](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/attributes/page-template.md)
               * [Edit / Add attribute page](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/attributes/edit-add-attribute-page.md)
+              * [Edit / Add new value](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/attributes/edit-add-new-value.md)
             * [Features](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/features.md)
           * [Brands & Suppliers](functional-documentation/ux-ui/back-office/sell/catalog/brands-and-suppliers.md)
           * [Files](functional-documentation/ux-ui/back-office/sell/catalog/files.md)
