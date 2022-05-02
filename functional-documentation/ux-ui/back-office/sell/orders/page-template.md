@@ -14,7 +14,7 @@ This section COULD include other screenshots of the page depending of the config
 
 The screenshot COULD include some labels or numbers to some UI component if needed. So you can refer to this "label" bellow.
 
-![](../../../../.gitbook/assets/clients-listing.png)
+![](../../../../../.gitbook/assets/clients-listing.png)
 
 ## Components description
 
@@ -24,7 +24,7 @@ This section MUST describe each component one by one
 
 Several cases
 
-1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../common-components.md)
+1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../../common-components.md)
 2. The component is a common component with a standard behavior described in the UI/KIT or Design System : it must be a link to the UI/KIT or DS
 3. Otherwise the component MUST be described as a Table as described bellow
 
@@ -56,7 +56,7 @@ This sub-section MUST include a diagram of this worflow (using : [https://app.di
 ### Behavior description
 
 * This sub-section MUST contains the description of the behavoir / call to action.
-* This sub-section COULD contains a link to the relevant [business rule](../../../../readme/ux-ui/back-office/orders/broken-reference/)
+* This sub-section COULD contains a link to the relevant [business rule](../../../../../readme/ux-ui/back-office/orders/broken-reference/)
 
 This section COULD contains label (ex: multishop case ...)
 
