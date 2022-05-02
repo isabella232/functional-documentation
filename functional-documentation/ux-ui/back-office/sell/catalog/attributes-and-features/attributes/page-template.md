@@ -52,7 +52,7 @@ Clicking on the _Bulk actions_ button allows performing bulk actions for the sel
 
 * [Select all](page-template.md#bulk-action-select-all)&#x20;
 * [Unselect all](page-template.md#bulk-action-unselect-all)
-* [Delete selected](page-template.md#bulk-action-select-all-1)
+* [Delete selected](page-template.md#bulk-action-delete-selected)
 
 ### Label & ordering columns
 
