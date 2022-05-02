@@ -6,21 +6,23 @@ This section MUST describe the page shortly
 
 It MUST include
 
-* [A link to related tests](https://build.prestashop.com/test-scenarios/)
+* [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
 
-This section MUST include a screenshot of the Page
+![Attributes listing](../../../../../../../.gitbook/assets/attributes-list.png)
 
 This section COULD include other screenshots of the page depending of the configuration (ex: B2B, Multistore ). Those screenshots MUST be labelled (ex : B2B ) for further uses ( see below)
 
 The screenshot COULD include some labels or numbers to some UI component if needed. So you can refer to this "label" bellow.
 
-![](../../../../../../../.gitbook/assets/clients-listing.png)
-
 ## Components description
 
 This section MUST describe each component one by one
 
-### A component description
+### Add new attribute button
+
+This button add a new attribute
+
+Call to action :&#x20;
 
 Several cases
 
@@ -53,9 +55,10 @@ This sub-section MUST describe the page workflow
 
 This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) ) & the xml export of this workflow
 
-### Behavior description
+### Add new attributes
 
-* This sub-section MUST contains the description of the behavoir / call to action.
+Call to action : Add new attribute page
+
 * This sub-section COULD contains a link to the relevant [business rule](../../../../../../../functionnal-documentation/how-to-write-functional-documentation/templates/broken-reference/)
 
 This section COULD contains label (ex: multishop case ...)
