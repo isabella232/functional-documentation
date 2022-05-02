@@ -38,6 +38,18 @@ See [Help button](page-template.md#help-button) ( common components)&#x20;
 
 Allow to switch from attibutes list to features list. [See call to action](page-template.md#attributes-features-tab)
 
+### Attributes label (number)
+
+Display Attributes (_number of attributes_)&#x20;
+
+### Setting wheels
+
+See settings wheel (common component)
+
+
+
+
+
 Several cases&#x20;
 
 1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../../../../common-components.md)
