@@ -24,7 +24,7 @@ This section MUST describe each component one by one
 
 Several cases
 
-1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../common-components.md)
+1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../common-components/)
 2. The component is a common component with a standard behavior described in the UI/KIT or Design System : it must be a link to the UI/KIT or DS
 3. Otherwise the component MUST be described as a Table as described bellow
 

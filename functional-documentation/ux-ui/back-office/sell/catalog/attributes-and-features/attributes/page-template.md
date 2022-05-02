@@ -20,13 +20,25 @@ This section MUST describe each component one by one
 
 ### Add new attribute button
 
-This button add a new attribute
+To add a new attribute
 
-Call to action :&#x20;
+Call to action : [Add new attribute behavior](page-template.md#add-new-attribute)
+
+### Add new value button
+
+To add new value
+
+Call to action : [Add new value behavior](page-template.md#add-new-value)
+
+### Help  button
+
+See [Help button](page-template.md#add-new-value)
+
+
 
 Several cases
 
-1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../../../../common-components.md)
+1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../../../../common-components/)
 2. The component is a common component with a standard behavior described in the UI/KIT or Design System : it must be a link to the UI/KIT or DS
 3. Otherwise the component MUST be described as a Table as described bellow
 
@@ -55,13 +67,17 @@ This sub-section MUST describe the page workflow
 
 This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) ) & the xml export of this workflow
 
-### Add new attribute
+### Add new attribute behavior
 
 Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
 
-### Add new value
+### Add new value behavior
 
-Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
+Call to action : [Edit / Add value page](edit-add-new-value.md)
+
+
+
+
 
 * This sub-section COULD contains a link to the relevant [business rule](../../../../../../../functionnal-documentation/how-to-write-functional-documentation/templates/broken-reference/)
 
