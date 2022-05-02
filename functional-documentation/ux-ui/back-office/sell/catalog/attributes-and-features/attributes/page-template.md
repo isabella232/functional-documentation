@@ -55,9 +55,13 @@ This sub-section MUST describe the page workflow
 
 This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) ) & the xml export of this workflow
 
-### Add new attributes
+### Add new attribute
 
-Call to action : Add new attribute page
+Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
+
+### Add new value
+
+Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
 
 * This sub-section COULD contains a link to the relevant [business rule](../../../../../../../functionnal-documentation/how-to-write-functional-documentation/templates/broken-reference/)
 
