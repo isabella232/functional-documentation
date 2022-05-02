@@ -41,6 +41,6 @@
     * [Front office](functional-documentation/ux-ui/front-office.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
       * [Help Button](functional-documentation/ux-ui/common-components/help-button.md)
-      * [Setting wheels](functional-documentation/ux-ui/common-components/setting-wheels.md)
+      * [Settings wheel](functional-documentation/ux-ui/common-components/settings-wheel.md)
   * [Business rules](functional-documentation/business-rules/README.md)
     * [Stocks](functional-documentation/business-rules/stocks.md)
