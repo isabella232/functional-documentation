@@ -12,6 +12,7 @@
           * [Orders (list)](functional-documentation/ux-ui/back-office/orders/page-template.md)
         * [Catalog](functional-documentation/ux-ui/back-office/sell/catalog/README.md)
           * [Products](functional-documentation/ux-ui/back-office/sell/catalog/products.md)
+          * [Page 1](functional-documentation/ux-ui/back-office/sell/catalog/page-1.md)
         * [Customers](functional-documentation/ux-ui/back-office/sell/customers.md)
         * [Customer service](functional-documentation/ux-ui/back-office/sell/customer-service.md)
         * [Stats](functional-documentation/ux-ui/back-office/sell/stats.md)
