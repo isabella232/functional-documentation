@@ -44,7 +44,7 @@ Display Attributes (_number of attributes_)&#x20;
 
 ### Setting wheels
 
-See [settings wheel](page-template.md#attributes-label-number-1) (common component)
+See[ settings wheel ](../../../../../common-components/settings-wheel.md)(common component)
 
 ### Bulk Actions
 
