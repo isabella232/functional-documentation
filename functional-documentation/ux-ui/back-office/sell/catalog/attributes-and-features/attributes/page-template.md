@@ -44,8 +44,17 @@ Display Attributes (_number of attributes_)&#x20;
 
 ### Setting wheels
 
-See settings wheel (common component)
+See [settings wheel](page-template.md#attributes-label-number-1) (common component)
 
+### Bulk Actions
+
+Clicking on the _Bulk actions_ button allows performing bulk actions for the selected attributes (using the checkboxes). A user can:
+
+* [Select all](page-template.md#bulk-action-select-all)&#x20;
+* [Unselect all](page-template.md#bulk-action-unselect-all)
+* [Delete selected](page-template.md#bulk-action-select-all-1)
+
+\
 
 
 
@@ -94,6 +103,19 @@ Call to action : [Edit / Add value page](edit-add-new-value.md)
 call to action Attributes : [reload this page](page-template.md) . It unselects the list
 
 call to action Features : [Features list page](../features/features-list-page.md) &#x20;
+
+### Bulk action select all
+
+### Bulk action unselect all
+
+### Bulk action Delete selected
+
+This action will delete the selected attributes.&#x20;
+
+After clicking on “Delete selected”, a modal with the title “Delete selection” is opened asking to confirm or cancel the action: “Are you sure you want to delete the selected item(s)?” (See issue [#14462](https://github.com/PrestaShop/PrestaShop/issues/14462)). The action can be canceled by clicking on the cross or on the cancel button. After clicking on “Delete” button, the selected attributes and all their values are deleted, a successful message is displayed “The selection has been successfully deleted.”
+
+See Business rules : delete attributes\
+
 
 
 
