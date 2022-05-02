@@ -22,7 +22,7 @@ This section MUST describe each component one by one
 
 To add a new attribute
 
-Call to action : [Add new attribute behavior](page-template.md#add-new-attribute)
+Call to action : [Add new attribute behavior](page-template.md#add-new-attribute-behavior)
 
 ### Add new value button
 
