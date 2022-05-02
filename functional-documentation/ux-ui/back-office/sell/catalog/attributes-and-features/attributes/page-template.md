@@ -56,11 +56,11 @@ Clicking on the _Bulk actions_ button allows performing bulk actions for the sel
 
 ### Label & ordering columns
 
-| Label    |                          Order by                          |
-| -------- | :--------------------------------------------------------: |
-| id       |                       index ( int )                        |
-| Name     |                        name (chars)                        |
-| Value    |                             N/A                            |
+| Label    | Order by                                                   |
+| -------- | ---------------------------------------------------------- |
+| id       | index ( int )                                              |
+| Name     | name (chars)                                               |
+| Value    | N/A                                                        |
 | Position | position index. Note : the ascendent ording display ...... |
 
 The column can be sort ascending & descending
