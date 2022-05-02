@@ -9,6 +9,7 @@
     * [Back office](functional-documentation/ux-ui/back-office/README.md)
       * [Orders](functional-documentation/ux-ui/back-office/orders/README.md)
         * [Orders (list)](functional-documentation/ux-ui/back-office/orders/page-template.md)
+      * [Catalog](functional-documentation/ux-ui/back-office/catalog.md)
     * [Front office](functional-documentation/ux-ui/front-office.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
   * [Business rules](functional-documentation/business-rules/README.md)
