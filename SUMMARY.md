@@ -23,6 +23,7 @@
         * [Marketing](functional-documentation/ux-ui/back-office/improve/marketing.md)
       * [Configure](functional-documentation/ux-ui/back-office/configure/README.md)
         * [Shop Parameters](functional-documentation/ux-ui/back-office/configure/shop-parameters.md)
+        * [Advanced Parameters](functional-documentation/ux-ui/back-office/configure/advanced-parameters.md)
     * [Front office](functional-documentation/ux-ui/front-office.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
   * [Business rules](functional-documentation/business-rules/README.md)
