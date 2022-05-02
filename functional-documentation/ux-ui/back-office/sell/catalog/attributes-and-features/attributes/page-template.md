@@ -54,28 +54,55 @@ Clicking on the _Bulk actions_ button allows performing bulk actions for the sel
 * [Unselect all](page-template.md#bulk-action-unselect-all)
 * [Delete selected](page-template.md#bulk-action-select-all-1)
 
-\
+### Label & ordering columns
 
+| Label    |                          Order by                          |
+| -------- | :--------------------------------------------------------: |
+| id       |                       index ( int )                        |
+| Name     |                        name (chars)                        |
+| Value    |                             N/A                            |
+| Position | position index. Note : the ascendent ording display ...... |
 
+The column can be sort ascending & descending
 
+### Filters
 
-Several cases&#x20;
+#### ID
 
-1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../../../../common-components.md)
-2. The component is a common component with a standard behavior described in the UI/KIT or Design System : it must be a link to the UI/KIT or DS
-3. Otherwise the component MUST be described as a Table as described bellow
+| Allowed characters | all                                                                  |   |
+| ------------------ | -------------------------------------------------------------------- | - |
+| Default value      |                                                                      |   |
+| Help text          |                                                                      |   |
+| Tool tips          |                                                                      |   |
+| Lower limit        |                                                                      |   |
+| Upper limit        |                                                                      |   |
+| Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
 
-|                    |                                                                      |                                   |
-| ------------------ | -------------------------------------------------------------------- | --------------------------------- |
-| Allowed characters |                                                                      | Error message if not allowed      |
-| Default value      | Default value                                                        |                                   |
-| Help text          | Help text                                                            |                                   |
-| Tool tips          | Tool tips text                                                       |                                   |
-| Lower limit        |                                                                      | Error message if bellow the limit |
-| Upper limit        |                                                                      | Error message if up to the limit  |
-| Behavior           | [link to the behavior](page-template.md#one-component-description-1) |                                   |
+#### Name
 
-This section COULD contains label (ex: multishop case ...)
+| Allowed characters | all                                                                  |   |
+| ------------------ | -------------------------------------------------------------------- | - |
+| Default value      |                                                                      |   |
+| Help text          |                                                                      |   |
+| Tool tips          |                                                                      |   |
+| Lower limit        |                                                                      |   |
+| Upper limit        |                                                                      |   |
+| Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
+
+#### Name
+
+| Allowed characters | all                                                                  |   |
+| ------------------ | -------------------------------------------------------------------- | - |
+| Default value      |                                                                      |   |
+| Help text          |                                                                      |   |
+| Tool tips          |                                                                      |   |
+| Lower limit        |                                                                      |   |
+| Upper limit        |                                                                      |   |
+| Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
+
+##
+
+##
 
 ## Behaviors description
 
@@ -98,7 +125,7 @@ Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
 
 Call to action : [Edit / Add value page](edit-add-new-value.md)
 
-### Attributes / Features tab behavoir
+### Attributes / Features tab behavior
 
 call to action Attributes : [reload this page](page-template.md) . It unselects the list
 
@@ -106,7 +133,11 @@ call to action Features : [Features list page](../features/features-list-page.md
 
 ### Bulk action select all
 
+Select all attributes into the list
+
 ### Bulk action unselect all
+
+Unselect all attributes into the list
 
 ### Bulk action Delete selected
 
