@@ -34,7 +34,9 @@ Call to action : [Add new value behavior](page-template.md#add-new-value)
 
 See [Help button](page-template.md#help-button) ( common components)&#x20;
 
+### Attributes / Features tab
 
+Allow to switch from attibutes list to features list. [See call to action](page-template.md#attributes-features-tab)
 
 Several cases&#x20;
 
@@ -75,11 +77,11 @@ Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
 
 Call to action : [Edit / Add value page](edit-add-new-value.md)
 
-### Attributes / Features tab
+### Attributes / Features tab behavoir
 
 call to action Attributes : [reload this page](page-template.md) . It unselects the list
 
-call to action Features : Features list page &#x20;
+call to action Features : [Features list page](../features/features-list-page.md) &#x20;
 
 
 
