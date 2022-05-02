@@ -32,7 +32,7 @@ Call to action : [Add new value behavior](page-template.md#add-new-value)
 
 ### Help  button
 
-See [Help button](page-template.md#help-button) ( common components)&#x20;
+See [Help button](../../../../../common-components/help-button.md) ( common components)&#x20;
 
 ### Attributes / Features tab
 
