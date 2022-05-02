@@ -13,6 +13,7 @@
       * [Customers](functional-documentation/ux-ui/back-office/customers.md)
       * [Customer service](functional-documentation/ux-ui/back-office/customer-service.md)
       * [Stats](functional-documentation/ux-ui/back-office/stats.md)
+      * [Sell](functional-documentation/ux-ui/back-office/sell.md)
     * [Front office](functional-documentation/ux-ui/front-office.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
   * [Business rules](functional-documentation/business-rules/README.md)
