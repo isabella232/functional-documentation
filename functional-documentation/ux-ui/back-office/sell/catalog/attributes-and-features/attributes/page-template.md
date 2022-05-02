@@ -75,7 +75,11 @@ Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
 
 Call to action : [Edit / Add value page](edit-add-new-value.md)
 
+### Attributes / Features tab
 
+call to action Attributes : [reload this page](page-template.md) . It unselects the list
+
+call to action Features : Features list page &#x20;
 
 
 
