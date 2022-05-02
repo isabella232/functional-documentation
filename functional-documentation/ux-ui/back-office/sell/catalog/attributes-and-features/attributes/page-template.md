@@ -32,13 +32,13 @@ Call to action : [Add new value behavior](page-template.md#add-new-value)
 
 ### Help  button
 
-See [Help button](page-template.md#add-new-value)
+See [Help button](page-template.md#help-button) ( common components)&#x20;
 
 
 
-Several cases
+Several cases&#x20;
 
-1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../../../../common-components/)
+1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../../../../common-components.md)
 2. The component is a common component with a standard behavior described in the UI/KIT or Design System : it must be a link to the UI/KIT or DS
 3. Otherwise the component MUST be described as a Table as described bellow
 
