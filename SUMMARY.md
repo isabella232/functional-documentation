@@ -15,7 +15,7 @@
         * [Customer service](functional-documentation/ux-ui/back-office/sell/customer-service.md)
         * [Stats](functional-documentation/ux-ui/back-office/sell/stats.md)
       * [Improve](functional-documentation/ux-ui/back-office/improve/README.md)
-        * [Page 1](functional-documentation/ux-ui/back-office/improve/page-1.md)
+        * [Modules](functional-documentation/ux-ui/back-office/improve/modules.md)
     * [Front office](functional-documentation/ux-ui/front-office.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
   * [Business rules](functional-documentation/business-rules/README.md)
