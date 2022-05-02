@@ -20,21 +20,9 @@ This section MUST describe each component one by one
 
 ### Add new attribute button
 
-To add a new attribute
+This button add a new attribute
 
-Call to action : [Add new attribute behavior](page-template.md#add-new-attribute)
-
-### Add new value button
-
-To add new value
-
-Call to action : [Add new value behavior](page-template.md#add-new-value)
-
-### Help  button
-
-See [Help button](page-template.md#add-new-value)
-
-
+Call to action :&#x20;
 
 Several cases
 
@@ -67,17 +55,13 @@ This sub-section MUST describe the page workflow
 
 This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) ) & the xml export of this workflow
 
-### Add new attribute behavior
+### Add new attribute
 
 Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
 
-### Add new value behavior
+### Add new value
 
-Call to action : [Edit / Add value page](edit-add-new-value.md)
-
-
-
-
+Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
 
 * This sub-section COULD contains a link to the relevant [business rule](../../../../../../../functionnal-documentation/how-to-write-functional-documentation/templates/broken-reference/)
 

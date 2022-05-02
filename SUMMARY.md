@@ -39,5 +39,6 @@
         * [Advanced Parameters](functional-documentation/ux-ui/back-office/configure/advanced-parameters.md)
     * [Front office](functional-documentation/ux-ui/front-office.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
+    * [Page 1](functional-documentation/ux-ui/page-1.md)
   * [Business rules](functional-documentation/business-rules/README.md)
     * [Stocks](functional-documentation/business-rules/stocks.md)
