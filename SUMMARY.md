@@ -16,7 +16,7 @@
           * [Monitoring](functional-documentation/ux-ui/back-office/sell/catalog/monitoring.md)
           * [Attributes & Features](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/README.md)
             * [Attributes](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/attributes/README.md)
-              * [Page 1](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/attributes/page-1.md)
+              * [List page](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/attributes/list-page.md)
             * [Features](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/features.md)
           * [Brands & Suppliers](functional-documentation/ux-ui/back-office/sell/catalog/brands-and-suppliers.md)
           * [Files](functional-documentation/ux-ui/back-office/sell/catalog/files.md)
