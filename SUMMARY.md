@@ -20,6 +20,8 @@
         * [Shipping](functional-documentation/ux-ui/back-office/improve/shipping.md)
         * [Payment](functional-documentation/ux-ui/back-office/improve/payment.md)
         * [International](functional-documentation/ux-ui/back-office/improve/international.md)
+        * [Marketing](functional-documentation/ux-ui/back-office/improve/marketing.md)
+      * [Configure](functional-documentation/ux-ui/back-office/configure.md)
     * [Front office](functional-documentation/ux-ui/front-office.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
   * [Business rules](functional-documentation/business-rules/README.md)
