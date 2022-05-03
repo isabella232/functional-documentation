@@ -69,8 +69,9 @@ The column can be sort ascending & descending
 
 #### ID
 
-| Allowed characters | all                                                                  |   |
+|                    |                                                                      |   |
 | ------------------ | -------------------------------------------------------------------- | - |
+| Allowed characters | all                                                                  |   |
 | Default value      |                                                                      |   |
 | Help text          |                                                                      |   |
 | Tool tips          |                                                                      |   |
