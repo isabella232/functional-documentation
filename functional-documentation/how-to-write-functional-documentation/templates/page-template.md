@@ -6,7 +6,7 @@ This section MUST describe the page shortly
 
 It MUST include
 
-* [A link to related tests](https://build.prestashop.com/test-scenarios/)
+* [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
 
 This section MUST include a screenshot of the Page
 
@@ -25,20 +25,21 @@ This section MUST describe each component one by one
 Several cases
 
 1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../ux-ui/common-components.md)
-2. The component is a common component with a standard behavior described in the UI/KIT or Design System : it must be a link to the UI/KIT or DS
+2. The component is a common component with a standard behavior described in the [UI/KIT](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) or Design System : it must be a link to the UI/KIT or DS
 3. Otherwise the component MUST be described as a Table as described bellow
 
-|                    |                                                                      |                                   |
-| ------------------ | -------------------------------------------------------------------- | --------------------------------- |
-| Allowed characters |                                                                      | Error message if not allowed      |
-| Default value      | Default value                                                        |                                   |
-| Help text          | Help text                                                            |                                   |
-| Tool tips          | Tool tips text                                                       |                                   |
-| Lower limit        |                                                                      | Error message if bellow the limit |
-| Upper limit        |                                                                      | Error message if up to the limit  |
-| Behavior           | [link to the behavior](page-template.md#one-component-description-1) |                                   |
+| Description   | Value                                                          | Error message |                                   |
+| ------------- | -------------------------------------------------------------- | ------------- | :-------------------------------: |
+| Mandatory     | YES/NO                                                         | -             |    Error message if not allowed   |
+| Default value | Default value                                                  | -             |                                   |
+| Help text     | Help text                                                      | -             |                                   |
+| Tool tips     | Tool tips text                                                 | -             |                                   |
+| Lower limit   |                                                                |               | Error message if bellow the limit |
+| Upper limit   |                                                                |               |  Error message if up to the limit |
+| Behavior      | [link to the behavior](page-template.md#behaviors-description) | -             |                                   |
+|               |                                                                |               |                                   |
 
-This section COULD contains label (ex: multishop case ...)
+This section COULD contains label (ex: multishop  ...)
 
 ## Behaviors description
 
@@ -51,12 +52,12 @@ This section MUST contains :
 
 This sub-section MUST describe the page workflow
 
-This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) ) & the xml export of this workflow
+This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) or figma ) & the xml export of this workflow
 
 ### Behavior description
 
-* This sub-section MUST contains the description of the behavoir / call to action.
-* This sub-section COULD contains a link to the relevant [business rule](../../../functionnal-documentation/how-to-write-functional-documentation/templates/broken-reference/)
+* This sub-section MUST contains the description of the behavior / call to action.
+* This sub-section COULD contains a link to the relevant [business rule](business-rules-template.md)
 
 This section COULD contains label (ex: multishop case ...)
 
