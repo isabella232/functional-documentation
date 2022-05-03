@@ -52,7 +52,7 @@ This section MUST contains :
 
 This sub-section MUST describe the page workflow
 
-This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) or figma ) & the xml export of this workflow
+This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) or [figma](https://www.figma.com/file/14ptOoCqDdmBqtmq1Grc5M/BO-Core-Cartography?node-id=0%3A1) ) & the xml export of this workflow
 
 ### Behavior description
 
