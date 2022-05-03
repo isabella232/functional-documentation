@@ -4,7 +4,7 @@ description: The functional documentation (currently specs
 
 # How to write functional documentation
 
-The functional documentation describes what Prestashop IS ( TODO )\\
+The functional documentation describes what Prestashop IS.
 
 This documentation is part of the PrestaShop project documentation package which includes :
 
