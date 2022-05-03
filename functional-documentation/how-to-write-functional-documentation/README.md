@@ -8,7 +8,7 @@ The functional documentation describes what Prestashop IS.
 
 This documentation is part of the PrestaShop project documentation package which includes :
 
-* This functional documentation
+* [This functional documentation](./)
 * [Developers documentation](https://devdocs.prestashop.com)
 * [Tests documentation](https://build.prestashop.com/test-scenarios/)
 * [User documentation](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/tBUT2FaUMQ8aGrzosLWv/)
