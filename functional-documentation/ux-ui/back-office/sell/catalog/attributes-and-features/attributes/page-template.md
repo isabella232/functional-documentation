@@ -100,7 +100,24 @@ The column can be sort ascending & descending
 | Upper limit        |                                                                      |   |
 | Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
 
-##
+### Columns
+
+1. ID: the attribute ID&#x20;
+2. Name : the attribute name
+3. Values: It indicates the number of values for the attribute.
+4. Position : The position of each attribute can be changed by clicking on this column and by moving it up or down. After changing the position, the message “Successful update.” is displayed.
+5.  Actions :&#x20;
+
+    &#x20;View the attribute\
+    &#x20;[Edit](page-template.md#add-new-attribute-button) \
+    [ Delete](page-template.md#bulk-action-delete-selected)
+
+****
+
+****
+
+\
+
 
 ##
 
@@ -117,29 +134,29 @@ This sub-section MUST describe the page workflow
 
 This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) ) & the xml export of this workflow
 
-### Add new attribute behavior
+### Add new attribute call to action
 
 Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
 
-### Add new value behavior
+### Add new value call to action
 
 Call to action : [Edit / Add value page](edit-add-new-value.md)
 
-### Attributes / Features tab behavior
+### Attributes / Features tab call to action
 
 call to action Attributes : [reload this page](page-template.md) . It unselects the list
 
 call to action Features : [Features list page](../features/features-list-page.md) &#x20;
 
-### Bulk action select all
+### Select all call to action
 
 Select all attributes into the list
 
-### Bulk action unselect all
+### Unselect all call to action
 
 Unselect all attributes into the list
 
-### Bulk action Delete selected
+### Delete selected call to action
 
 This action will delete the selected attributes.&#x20;
 
@@ -148,9 +165,13 @@ After clicking on “Delete selected”, a modal with the title “Delete select
 See Business rules : delete attributes\
 
 
+### View call to action
+
+Call to action : [View attribute page](view-attrribute-page.md)
 
 
-* This sub-section COULD contains a link to the relevant [business rule](../../../../../../../functionnal-documentation/how-to-write-functional-documentation/templates/broken-reference/)
+
+This sub-section COULD contains a link to the relevant [business rule](../../../../../../../functionnal-documentation/how-to-write-functional-documentation/templates/broken-reference/)
 
 This section COULD contains label (ex: multishop case ...)
 
