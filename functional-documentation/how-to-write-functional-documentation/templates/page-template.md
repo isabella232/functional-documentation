@@ -28,16 +28,16 @@ Several cases
 2. The component is a common component with a standard behavior described in the [UI/KIT](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) or Design System : it must be a link to the UI/KIT or DS
 3. Otherwise the component MUST be described as a Table as described bellow
 
-| Description   | Value                                                          | Error message |                                   |
-| ------------- | -------------------------------------------------------------- | ------------- | :-------------------------------: |
-| Mandatory     | YES/NO                                                         | -             |    Error message if not allowed   |
-| Default value | Default value                                                  | -             |                                   |
-| Help text     | Help text                                                      | -             |                                   |
-| Tool tips     | Tool tips text                                                 | -             |                                   |
-| Lower limit   |                                                                |               | Error message if bellow the limit |
-| Upper limit   |                                                                |               |  Error message if up to the limit |
-| Behavior      | [link to the behavior](page-template.md#behaviors-description) | -             |                                   |
-|               |                                                                |               |                                   |
+| Description              | Value                                                          | Error message |                                   |
+| ------------------------ | -------------------------------------------------------------- | ------------- | :-------------------------------: |
+| Mandatory                | YES/NO                                                         | -             |    Error message if not allowed   |
+| Allowed/Forbidden values |                                                                |               |                                   |
+| Default value            | Default value                                                  | -             |                                   |
+| Help text                | Help text                                                      | -             |                                   |
+| Tool tips                | Tool tips text                                                 | -             |                                   |
+| Lower limit              |                                                                |               | Error message if bellow the limit |
+| Upper limit              |                                                                |               |  Error message if up to the limit |
+| Behavior                 | [link to the behavior](page-template.md#behaviors-description) | -             |                                   |
 
 This section COULD contains label (ex: multishop  ...)
 
