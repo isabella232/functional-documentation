@@ -100,7 +100,24 @@ The column can be sort ascending & descending
 | Upper limit        |                                                                      |   |
 | Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
 
-##
+### Columns
+
+1. ID: the attribute ID&#x20;
+2. Name : the attribute name
+3. Values: It indicates the number of values for the attribute.
+4. Position : The position of each attribute can be changed by clicking on this column and by moving it up or down. After changing the position, the message “Successful update.” is displayed.
+5.  Actions :&#x20;
+
+    &#x20;View the attribute\
+    &#x20;[Edit](page-template.md#add-new-attribute-button) \
+    [ Delete](page-template.md#bulk-action-delete-selected)
+
+****
+
+****
+
+\
+
 
 ##
 
