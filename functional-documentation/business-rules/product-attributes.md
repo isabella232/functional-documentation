@@ -1,2 +1,4 @@
 # Product attributes
 
+## Delete attributes
+
