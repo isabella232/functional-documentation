@@ -1,4 +1,4 @@
 # Product attributes
 
-## Delete attributes
+## Delete attributes business rule
 
