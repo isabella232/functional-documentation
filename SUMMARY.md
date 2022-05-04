@@ -45,3 +45,4 @@
       * [Settings wheel](functional-documentation/ux-ui/common-components/settings-wheel.md)
   * [Business rules](functional-documentation/business-rules/README.md)
     * [Stocks](functional-documentation/business-rules/stocks.md)
+    * [Product attributes](functional-documentation/business-rules/product-attributes.md)

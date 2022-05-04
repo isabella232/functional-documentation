@@ -2,15 +2,17 @@
 
 ## Description
 
-This page displays the list of product attributes.
+This section MUST describe the page shortly
 
+It MUST include
 
-
-* [QA tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
+* [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
 
 ![Attributes listing](../../../../../../../.gitbook/assets/attributes-list.png)
 
+This section COULD include other screenshots of the page depending of the configuration (ex: B2B, Multistore ). Those screenshots MUST be labelled (ex : B2B ) for further uses ( see below)
 
+The screenshot COULD include some labels or numbers to some UI component if needed. So you can refer to this "label" bellow.
 
 ## Components description
 
@@ -67,9 +69,8 @@ The column can be sort ascending & descending
 
 #### ID
 
-|                    |                                                                      |   |
-| ------------------ | -------------------------------------------------------------------- | - |
 | Allowed characters | all                                                                  |   |
+| ------------------ | -------------------------------------------------------------------- | - |
 | Default value      |                                                                      |   |
 | Help text          |                                                                      |   |
 | Tool tips          |                                                                      |   |
