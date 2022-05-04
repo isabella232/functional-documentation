@@ -39,7 +39,7 @@
       * [Configure](functional-documentation/ux-ui/back-office/configure/README.md)
         * [Shop Parameters](functional-documentation/ux-ui/back-office/configure/shop-parameters.md)
         * [Advanced Parameters](functional-documentation/ux-ui/back-office/configure/advanced-parameters.md)
-    * [Front office](functional-documentation/ux-ui/front-office/README.md)
+    * [Front office](functional-documentation/ux-ui/front-office.md)
       * [Image](functional-documentation/ux-ui/front-office/image.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
       * [Help Button](functional-documentation/ux-ui/common-components/help-button.md)
