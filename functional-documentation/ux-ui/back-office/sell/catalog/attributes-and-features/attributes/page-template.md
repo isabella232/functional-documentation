@@ -32,7 +32,7 @@ See [Help button](../../../../../common-components/help-button.md) ( common comp
 
 ### Attributes / Features tab
 
-Allow to switch from attributes list to features list. [See call to action](page-template.md#attributes-features-tab-behavior)
+Allow to switch from attributes list to features list. [See call to action](page-template.md#attributes-features-tab-call-to-action)
 
 ### Attributes label (number)
 
