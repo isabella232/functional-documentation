@@ -105,8 +105,8 @@ The column can be sort ascending & descending
 4. Position : The position of each attribute can be changed by clicking on this column and by moving it up or down. After changing the position, the message “Successful update.” is displayed.
 5.  Actions :&#x20;
 
-    &#x20;View the attribute\
-    &#x20;[Edit](page-template.md#add-new-attribute-button) \
+    [ View the attribute\
+    ](page-template.md#view-call-to-action) [Edit](page-template.md#add-new-attribute-button) \
     [ Delete](page-template.md#bulk-action-delete-selected)
 
 ****
@@ -162,7 +162,7 @@ After clicking on “Delete selected”, a modal with the title “Delete select
 See Business rules : delete attributes\
 
 
-### View call to action
+### View attribute call to action
 
 Call to action : [View attribute page](view-attrribute-page.md)
 
