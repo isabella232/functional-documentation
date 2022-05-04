@@ -124,7 +124,7 @@ This sub-section MUST include a diagram of this worflow (using : [https://app.di
 
 ### Add new attribute call to action
 
-Call to action : [Edit / Add attribute page](edit-add-attribute-page.md)
+Call to action : [Edit / Add attribute page](broken-reference)
 
 ### Add new value call to action
 

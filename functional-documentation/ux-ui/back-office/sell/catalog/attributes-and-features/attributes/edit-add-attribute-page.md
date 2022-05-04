@@ -1,2 +1,0 @@
-# Edit / Add attribute page
-
