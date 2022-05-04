@@ -2,21 +2,17 @@
 
 ## Description
 
-This section MUST describe the page shortly
+This page displays the list of [product attributes](../../../../../../business-rules/product-attributes.md).
 
-It MUST include
 
-* [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
+
+* [QA tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
 
 ![Attributes listing](../../../../../../../.gitbook/assets/attributes-list.png)
 
-This section COULD include other screenshots of the page depending of the configuration (ex: B2B, Multistore ). Those screenshots MUST be labelled (ex : B2B ) for further uses ( see below)
 
-The screenshot COULD include some labels or numbers to some UI component if needed. So you can refer to this "label" bellow.
 
 ## Components description
-
-This section MUST describe each component one by one
 
 ### Add new attribute button
 
@@ -36,7 +32,7 @@ See [Help button](../../../../../common-components/help-button.md) ( common comp
 
 ### Attributes / Features tab
 
-Allow to switch from attibutes list to features list. [See call to action](page-template.md#attributes-features-tab-behavior)
+Allow to switch from attributes list to features list. [See call to action](page-template.md#attributes-features-tab-behavior)
 
 ### Attributes label (number)
 
@@ -56,12 +52,12 @@ Clicking on the _Bulk actions_ button allows performing bulk actions for the sel
 
 ### Label & ordering columns
 
-| Label    | Order by                                                   |
-| -------- | ---------------------------------------------------------- |
-| id       | index ( int )                                              |
-| Name     | name (chars)                                               |
-| Value    | N/A                                                        |
-| Position | position index. Note : the ascendent ording display ...... |
+| Label    | Order by                                                                                                                                                                             |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| id       | index ( int )                                                                                                                                                                        |
+| Name     | name (chars)                                                                                                                                                                         |
+| Value    | N/A                                                                                                                                                                                  |
+| Position | <p>position index. <br>Note : when the position is sort from low to high; The position of each attribute can be changed by clicking on this column and by moving it up or down. </p> |
 
 The column can be sort ascending & descending
 
@@ -69,8 +65,9 @@ The column can be sort ascending & descending
 
 #### ID
 
-| Allowed characters | all                                                                  |   |
+|                    |                                                                      |   |
 | ------------------ | -------------------------------------------------------------------- | - |
+| Allowed characters | all                                                                  |   |
 | Default value      |                                                                      |   |
 | Help text          |                                                                      |   |
 | Tool tips          |                                                                      |   |
@@ -89,7 +86,7 @@ The column can be sort ascending & descending
 | Upper limit        |                                                                      |   |
 | Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
 
-#### Name
+#### Position
 
 | Allowed characters | all                                                                  |   |
 | ------------------ | -------------------------------------------------------------------- | - |
