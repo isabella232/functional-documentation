@@ -109,15 +109,6 @@ The column can be sort ascending & descending
     ](page-template.md#view-call-to-action) [Edit](page-template.md#add-new-attribute-button) \
     [ Delete](page-template.md#bulk-action-delete-selected)
 
-****
-
-****
-
-\
-
-
-##
-
 ## Behaviors description
 
 This section MUST contains :
