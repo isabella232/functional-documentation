@@ -168,9 +168,7 @@ Call to action : [View attribute page](view-attrribute-page.md)
 
 
 
-This sub-section COULD contains a link to the relevant [business rule](../../../../../../../functionnal-documentation/how-to-write-functional-documentation/templates/broken-reference/)
 
-This section COULD contains label (ex: multishop case ...)
 
 ## Error messages
 
