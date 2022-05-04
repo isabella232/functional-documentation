@@ -24,7 +24,7 @@ Call to action : [Add new attribute behavior](page-template.md#add-new-attribute
 
 To add new value
 
-Call to action : [Add new value behavior](page-template.md#add-new-value)
+Call to action : [Add new value behavior](page-template.md#add-new-value-call-to-action)
 
 ### Help  button
 
