@@ -46,9 +46,9 @@ See[ settings wheel ](../../../../../common-components/settings-wheel.md)(common
 
 Clicking on the _Bulk actions_ button allows performing bulk actions for the selected attributes (using the checkboxes). A user can:
 
-* [Select all](page-template.md#bulk-action-select-all)&#x20;
-* [Unselect all](page-template.md#bulk-action-unselect-all)
-* [Delete selected](page-template.md#bulk-action-delete-selected)
+* [Select all ](page-template.md#select-all-call-to-action)
+* [Unselect all](page-template.md#unselect-all-call-to-action)
+* [Delete selected](page-template.md#delete-selected-call-to-action)
 
 ### Label & ordering columns
 
