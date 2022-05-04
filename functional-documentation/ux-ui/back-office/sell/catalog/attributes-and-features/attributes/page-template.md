@@ -159,7 +159,7 @@ This action will delete the selected attributes.&#x20;
 
 After clicking on “Delete selected”, a modal with the title “Delete selection” is opened asking to confirm or cancel the action: “Are you sure you want to delete the selected item(s)?” (See issue [#14462](https://github.com/PrestaShop/PrestaShop/issues/14462)). The action can be canceled by clicking on the cross or on the cancel button. After clicking on “Delete” button, the selected attributes and all their values are deleted, a successful message is displayed “The selection has been successfully deleted.”
 
-See Business rules : [delete attributes](../../../../../../business-rules/product-attributes.md)\
+See Business rules : delete attributes\
 
 
 ### View attribute call to action
