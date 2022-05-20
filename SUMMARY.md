@@ -47,3 +47,4 @@
   * [Business rules](functional-documentation/business-rules/README.md)
     * [Stocks](functional-documentation/business-rules/stocks.md)
     * [Product attributes](functional-documentation/business-rules/product-attributes.md)
+    * [Back-office shop metrics & data](functional-documentation/business-rules/back-office-shop-metrics-and-data.md)
