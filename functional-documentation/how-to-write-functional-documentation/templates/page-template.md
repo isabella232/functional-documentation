@@ -24,7 +24,7 @@ This section MUST describe each component one by one
 
 Several cases
 
-1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../ux-ui/common-components.md)
+1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../ux-ui/common-components.md) (we recommend creating a dedicated change request when adding a new common component to the documentation)
 2. The component is a common component with a standard behavior described in the [UI/KIT](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) or Design System : it must be a link to the UI/KIT or DS
 3. Otherwise the component MUST be described as a Table as described bellow
 
