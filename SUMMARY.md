@@ -31,6 +31,7 @@
         * [Stats](functional-documentation/ux-ui/back-office/sell/stats.md)
       * [Improve](functional-documentation/ux-ui/back-office/improve/README.md)
         * [Modules](functional-documentation/ux-ui/back-office/improve/modules/README.md)
+          * [Dashboard Trends (dashtrends)](functional-documentation/ux-ui/back-office/improve/modules/dashboard-trends-dashtrends.md)
           * [Top-sellers block](functional-documentation/ux-ui/back-office/improve/modules/top-sellers-block.md)
           * [Brand list](functional-documentation/ux-ui/back-office/improve/modules/brand-list.md)
           * [Contact form](functional-documentation/ux-ui/back-office/improve/modules/contact-form.md)
